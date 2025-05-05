@@ -1,1 +1,2 @@
-# release-bevel-graph-manager
+# Bevel, code understanding through docs and diagrams
+We’re a team of developers on a mission to democratize code understanding. Our tech, powered by deep static analysis and augmented with LLMs, is meant to improve how you access documentation, diagrams, and context. As we build it, we're sharing everything with the community — from the ground up. We believe understanding your code should be effortless, whether you're navigating through docs or following the flow of complex dependencies.
